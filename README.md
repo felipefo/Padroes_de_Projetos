@@ -1,2 +1,2 @@
-# Padroes_de_Projetos
+# Padroes de Projetos
 Repositório da disciplina de Programação Orientada a Objetos 2
